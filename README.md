@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Jayesh Karmodia( 24BSCY10075 )
+- Name: Jayesh Karmodia( 24BCY10075 )
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
